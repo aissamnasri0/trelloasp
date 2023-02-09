@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = trelloAsp
+build_property.RootNamespace = trelloAsp
+build_property.ProjectDir = c:\Users\Administrateur\Desktop\formation\trelloAsp\trelloAsp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Administrateur\Desktop\formation\trelloAsp\trelloAsp
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Cartes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Cartes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Cartes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Cartes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Cartes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Commentaires/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudGFpcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Commentaires/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudGFpcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Commentaires/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudGFpcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Commentaires/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudGFpcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Commentaires/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudGFpcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Etiquettes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldHRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Etiquettes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldHRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Etiquettes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldHRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Etiquettes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldHRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Etiquettes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldHRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Listes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Listes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Listes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Listes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Listes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Projets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Projets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Projets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Projets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Projets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/UtilisateurProjets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJQcm9qZXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/UtilisateurProjets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJQcm9qZXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/UtilisateurProjets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJQcm9qZXRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/UtilisateurProjets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJQcm9qZXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/UtilisateurProjets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJQcm9qZXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Administrateur/Desktop/formation/trelloAsp/trelloAsp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yeckn87dab
